@@ -1,9 +1,8 @@
 <!-- README.md for Shagufta Zakir -->
 # 👋 Hi, I'm Shagufta Zakir
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Shagufta+Zakir;💻+Web+Developer;🤖+Agentic+AI+Developer;🌐+Freelancer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=36BCF7&center=true&vCenter=true&width=600&💻+Web+Developer;🤖+Agentic+AI+Developer;🌐+Freelancer)](https://git.io/typing-svg)
 
-💻 **Web Developer | 🤖 Agentic AI Developer | 🌐 Freelancer**
 
 ---
 
@@ -24,23 +23,22 @@
 ![React](https://progress-bar.dev/68/?title=React&width=400&color=61DAFB)
 ![AI/ML](https://progress-bar.dev/55/?title=AI%2FML&width=400&color=9B59B6)
 
-> ⚡ Ye animated skill bars tumhari profile ko professional & attractive banayenge.
+
 
 ---
 
 ## 📊 GitHub Stats
-> 🔔 Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username below.
 
-![Shagufta's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+![Shagufta's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHAGUFTA_ZAKIR&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHAGUFTA_ZAKIR&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=SHAGUFTA_ZAKIR&theme=tokyonight)
 
 ---
 
 ## 🔗 Connect with Me
 - 📧 Email: **muhmmadumar128512@gmail.com**  
-- 💼 LinkedIn:(https://www.linkedin.com/in/shagufta-zakir-3597552b2/)  
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
+- 💼 LinkedIn: (https://www.linkedin.com/in/shagufta-zakir-3597552b2/)  
+- 🌐 Portfolio: (https://yourwebsite.com)  
 - 🧾 Fiverr/Upwork: (add link if you work there)  
 
 ---
